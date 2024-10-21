@@ -1,0 +1,17 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Hero from '../components/Hero.astro';
+
+export const hydrate = "load"; // Activa la funcionalidad cuando la página se carga.
+---
+
+<Layout title="Welcome to Astro.">
+	<main>
+
+		<Hero owner="Majora's Mask" logo="/img/logo.svg" href="http://gallodev.es"/>
+
+	</main>
+</Layout>
+
+<style>
+</style>
