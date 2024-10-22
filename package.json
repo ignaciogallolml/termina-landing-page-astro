@@ -12,6 +12,8 @@
   "dependencies": {
     "@astrojs/check": "^0.9.4",
     "@astrojs/tailwind": "^5.1.2",
+    "@fontsource-variable/manrope": "^5.1.0",
+    "@fontsource-variable/merriweather-sans": "^5.1.0",
     "@fontsource-variable/plus-jakarta-sans": "^5.1.0",
     "@fontsource-variable/space-grotesk": "^5.1.0",
     "astro": "^4.16.6",
